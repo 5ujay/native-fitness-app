@@ -1,0 +1,12 @@
+1.npx create-expo-app@latest [your-app-name] --template blank@latest  
+2. nativewind :- tailwindcss installation
+3. to start the app -npx expo start -c
+4. npm i react-native-responsive-screen
+5. npm i expo-linear-gradient
+6. react native reanimated 
+	npx expo install react-native-reanimated
+	'react-native-reanimated/plugin' in babel config.js
+7. npm i expo-router or npm install @react-navigation/native and npm install react-navigation-stack 
+	npm install @react-navigation/stack
+8. npm i react-native-snap-carousel
+9. Exercise API radpid api
